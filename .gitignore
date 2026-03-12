@@ -1,0 +1,35 @@
+# Dados
+data/raw/*
+data/processed/*
+!data/raw/
+!data/processed/
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Ambiente Python
+.env
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Anaconda
+.conda/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+.jupyter/
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistema
+Thumbs.db
+
+
