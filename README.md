@@ -25,10 +25,11 @@ brazil-homicides-pipeline/
 ├── notebooks/
 │   └── analysis.ipynb          # Análise exploratória dos dados tratados
 │
-├── assets/                     # Visualizações geradas na análise
+├── .gitattributes
 ├── .gitignore
-├── requirements.txt
-└── README.md
+├── LICENSE
+├── README.md
+└── requirements.txt
 ```
 ---
 ## ⚙️ Como Executar
